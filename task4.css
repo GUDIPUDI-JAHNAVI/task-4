@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+    padding:6cm;
+}
+button{
+   padding: 0cm 2cm;
+   color:black;
+   background-color: white;
+   box-shadow: 5px 5px 2px rgb(221, 221, 233);
+   border-radius: 3px;
+   width:9cm;
+    padding:0.2cm;
+}
+button:hover{
+    color:white;
+    background-color:black ;
+    
+}
+body{
+    padding:5cm;
+    background-color: rgb(118, 83, 179);
+}
+
+input{
+    width:8.5cm;
+    padding:0.2cm;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #fdfafa;
+    color: rgb(11, 11, 11);
+    text-align: center;
+    padding: 10px 0;
+    font-size: 18px;
+}
+h1,p{
+color: #fdfafa;
+}
