@@ -12,6 +12,6 @@ function reverse() {
       result =result * 10 + digit;
         num = Math.floor(num / 10);
     }
-resultDiv.innerText = `Converted value: ${result}`;
+resultDiv.innerText = `Reversed value: ${result}`;
 }
     
